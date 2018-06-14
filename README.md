@@ -1,1 +1,1 @@
-{"switch":"1","url":"https://www.baidu.com/"}
+{"switch":"0","url":"https://www.baidu.com/"}
